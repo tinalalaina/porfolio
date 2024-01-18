@@ -1,0 +1,21 @@
+.rounded-h1 {
+  background-color: rgb(187, 25, 25);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+hello{
+  background: rgb(221, 11, 11);
+}
