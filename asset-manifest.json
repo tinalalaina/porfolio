@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/porfolio/static/css/main.2cb69b57.css",
-    "main.js": "/porfolio/static/js/main.2f5b3277.js",
+    "main.css": "/porfolio/static/css/main.ea47b257.css",
+    "main.js": "/porfolio/static/js/main.b43ca2d4.js",
     "static/media/IMG_20231229_061057.jpg": "/porfolio/static/media/IMG_20231229_061057.9afbe5a7e394e34ff6c8.jpg",
     "static/media/back.PNG": "/porfolio/static/media/back.138e13a399196b72d76d.PNG",
-    "static/media/cv_tina_lalaina_dev.pdf": "/porfolio/static/media/cv_tina_lalaina_dev.0e5da9b80f168a48f429.pdf",
+    "static/media/cv_tina_lalaina_dev.pdf": "/porfolio/static/media/cv_tina_lalaina_dev.d111cf08c00744804520.pdf",
     "static/media/IMG_20240113_145137.jpg": "/porfolio/static/media/IMG_20240113_145137.3aa1852279077ee215a0.jpg",
     "static/media/cssetjs.jpg": "/porfolio/static/media/cssetjs.f2776078149bc964680e.jpg",
     "static/media/WordPress.jpg": "/porfolio/static/media/WordPress.e0405414b4f72da99234.jpg",
@@ -12,15 +12,16 @@
     "static/media/bootstrap.jpg": "/porfolio/static/media/bootstrap.44e44d5883ce6fe43968.jpg",
     "static/media/lrv.jpg": "/porfolio/static/media/lrv.61d2d00a508256a00cab.jpg",
     "static/media/logo.PNG": "/porfolio/static/media/logo.d95ab63c2261f186fecf.PNG",
+    "static/media/php.jpg": "/porfolio/static/media/php.82198ff0b3d30e1e4d36.jpg",
     "static/media/elementor.jpg": "/porfolio/static/media/elementor.b9fb37876c596c112255.jpg",
     "static/media/bulm.jpg": "/porfolio/static/media/bulm.d35b0ca7cf0e7b7f18e6.jpg",
     "static/media/nodejs.jpg": "/porfolio/static/media/nodejs.79546a2c2f72844de588.jpg",
     "index.html": "/porfolio/index.html",
-    "main.2cb69b57.css.map": "/porfolio/static/css/main.2cb69b57.css.map",
-    "main.2f5b3277.js.map": "/porfolio/static/js/main.2f5b3277.js.map"
+    "main.ea47b257.css.map": "/porfolio/static/css/main.ea47b257.css.map",
+    "main.b43ca2d4.js.map": "/porfolio/static/js/main.b43ca2d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.2cb69b57.css",
-    "static/js/main.2f5b3277.js"
+    "static/css/main.ea47b257.css",
+    "static/js/main.b43ca2d4.js"
   ]
 }
