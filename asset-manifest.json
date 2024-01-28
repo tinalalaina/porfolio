@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/porfolio/static/css/main.ea47b257.css",
-    "main.js": "/porfolio/static/js/main.df344b72.js",
+    "main.css": "/porfolio/static/css/main.30b37d40.css",
+    "main.js": "/porfolio/static/js/main.632e72b0.js",
     "static/media/IMG_20231229_061057.jpg": "/porfolio/static/media/IMG_20231229_061057.9afbe5a7e394e34ff6c8.jpg",
     "static/media/cv_tina_lalaina_dev.pdf": "/porfolio/static/media/cv_tina_lalaina_dev.410c9e16b438c3046986.pdf",
     "static/media/back.PNG": "/porfolio/static/media/back.138e13a399196b72d76d.PNG",
@@ -17,11 +17,11 @@
     "static/media/bulm.jpg": "/porfolio/static/media/bulm.d35b0ca7cf0e7b7f18e6.jpg",
     "static/media/nodejs.jpg": "/porfolio/static/media/nodejs.79546a2c2f72844de588.jpg",
     "index.html": "/porfolio/index.html",
-    "main.ea47b257.css.map": "/porfolio/static/css/main.ea47b257.css.map",
-    "main.df344b72.js.map": "/porfolio/static/js/main.df344b72.js.map"
+    "main.30b37d40.css.map": "/porfolio/static/css/main.30b37d40.css.map",
+    "main.632e72b0.js.map": "/porfolio/static/js/main.632e72b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea47b257.css",
-    "static/js/main.df344b72.js"
+    "static/css/main.30b37d40.css",
+    "static/js/main.632e72b0.js"
   ]
 }
