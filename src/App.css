@@ -1,0 +1,29 @@
+.rounded-h1 {
+  background-color: rgb(187, 25, 25);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  color: gold;
+  text-align: center;
+}
+p {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+  font-size: 30px;
+}
+image
+{
+ width: 500;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.contact{
+color:rgb(27, 50, 227);
+}
+.incones{
+  font-size: 60px;
+}
