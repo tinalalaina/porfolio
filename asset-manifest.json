@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/porfolio/static/css/main.d05c837f.css",
+    "main.js": "/porfolio/static/js/main.5b2d41e0.js",
+    "static/media/IMG_20231229_061057.jpg": "/porfolio/static/media/IMG_20231229_061057.9afbe5a7e394e34ff6c8.jpg",
+    "static/media/Ge.png": "/porfolio/static/media/Ge.762fbfa918f4892476d5.png",
+    "static/media/cv_tina_lalaina_dev.pdf": "/porfolio/static/media/cv_tina_lalaina_dev.4a36e78554cd42bf2de2.pdf",
+    "static/media/bienvenue.jpg": "/porfolio/static/media/bienvenue.31476ca1a0226ec03116.jpg",
+    "static/media/consmeties.jpg": "/porfolio/static/media/consmeties.56bcf0e08b4e342917d0.jpg",
+    "static/media/fa-solid-900.ttf": "/porfolio/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/back.PNG": "/porfolio/static/media/back.138e13a399196b72d76d.PNG",
+    "static/media/fa-brands-400.ttf": "/porfolio/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/porfolio/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/IMG_20240113_145137.jpg": "/porfolio/static/media/IMG_20240113_145137.3aa1852279077ee215a0.jpg",
+    "static/media/fa-brands-400.woff2": "/porfolio/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/Gp.jpg": "/porfolio/static/media/Gp.fa04db9b622e984d266b.jpg",
+    "static/media/logo.PNG": "/porfolio/static/media/logo.d95ab63c2261f186fecf.PNG",
+    "static/media/Gu.jpg": "/porfolio/static/media/Gu.da617f7d0e8853b42732.jpg",
+    "static/media/gs.jpg": "/porfolio/static/media/gs.f329ca5d96eaecbaef3e.jpg",
+    "static/media/fa-regular-400.ttf": "/porfolio/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/bulm.jpg": "/porfolio/static/media/bulm.d35b0ca7cf0e7b7f18e6.jpg",
+    "static/media/fa-regular-400.woff2": "/porfolio/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/porfolio/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/porfolio/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/porfolio/index.html",
+    "main.d05c837f.css.map": "/porfolio/static/css/main.d05c837f.css.map",
+    "main.5b2d41e0.js.map": "/porfolio/static/js/main.5b2d41e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d05c837f.css",
+    "static/js/main.5b2d41e0.js"
+  ]
+}
